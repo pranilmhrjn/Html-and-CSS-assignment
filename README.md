@@ -1,4 +1,4 @@
-LearnHub Website
+LearnSkill Website
 
 Student Information
 - Name: Pranil Maharjan
@@ -8,7 +8,7 @@ Student Information
 
 Project Description
 
-LearnHub is an educational website that provides information about different courses.
+LearnSkill is an educational website that provides information about different courses.
 The website contains a navigation bar, introduction section, six course cards, and a footer. It is designed using HTML and CSS and is responsive for desktop, tablet, and mobile devices.
 
 Technologies Used
